@@ -1,0 +1,3 @@
+this is clone project
+git clone url {it is in github
+
